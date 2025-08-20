@@ -4,14 +4,14 @@ html, body {
   font-family: 'Montserrat', sans-serif;
 /*    background: url("/header.png") no-repeat center center fixed; */
    background-image: url('/header.png');
-  background-repeat: no-repeat;
+/*   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
  -webkit-background-size: cover;
    -moz-background-size: cover;
    -o-background-size: cover;
    background-size: cover;
-}
+} */
 
 h1 {
   font-size: 3rem;
